@@ -1,17 +1,10 @@
 # phase-3-week-1-code-challenge
 
-Based on the contents of `functions.py`, here's a revised `README.md` file that reflects the functionality provided:
-
----
-
-# Project Overview
-
 ## Table of Contents
 
 - [phase-3-week-1-code-challenge](#phase-3-week-1-code-challenge)
-- [Project Overview](#project-overview)
   - [Table of Contents](#table-of-contents)
-  - [Project Overview](#project-overview-1)
+  - [Project Overview](#project-overview)
   - [Installation](#installation)
   - [Usage](#usage)
   - [functions.py](#functionspy)
